@@ -7,21 +7,6 @@ OPEATING SYSTEM: Mac OS
 
 ## ------------------------   Description   ------------------------
 
-Swimmer Information System has been developed to keep track of swimmers
-
-visiting any hospitals or clinics for checkups, through this system one can access the
-previous visit histories of the patients by providing the id number if known.
-This system involves only three people’s patient, the doctor and the receptionist.
-It helps to know the details of the previously visited doctors and the status of
-the patients who have undergone treatments under this doctors.Here the most
-important member is receptionist. He/She is the admin of the system and can
-add or delete the data’s needed while registering a patient. Nowadays, every
-hospitals and clinics need this software to keep records. While entering data’s it
-shows error message if it was an invalid entry. This system is very simple and
-easy to use for the users if he/she doesn’t have any formal knowledge about the
-software. It contains the following tabs Insert,Update,Search,Delete,Display
-and Exit.
-
 ## ------------------------   Files   ------------------------
 
 1) IndexLogin.py
@@ -120,5 +105,37 @@ Any new features, improvements, additions, suggestions or issues are welcome!
 ## Citations
 
 <http://effbot.org/tkinterbook/tkinter-events-and-bindings.htm>
+
+### Tkinter Documentation
+
+<https://www.tutorialspoint.com/python/python_gui_programming.htm>
+
+### Demonstrating Tkinter pack and pack_forget
+
+<https://www.daniweb.com/programming/software-development/code/276574/demonstrating-tkinter-pack-and-pack-forget>
+
+### Packing methods
+
+<https://www.tutorialspoint.com/python/tk_pack.htm>
+
+### Python Tkinter Frame Documentation
+
+<https://www.javatpoint.com/python-tkinter-frame>
+
+### Python interface to Tcl/Tk Documenation
+
+<https://docs.python.org/3/library/tkinter.html>
+
+### GUI Programming with Python Tkinter
+
+<https://www.devdungeon.com/content/gui-programming-python-tkinter>
+
+### The Tkinter Button Widget
+
+<https://effbot.org/tkinterbook/button.htm>
+
+<https://stackoverflow.com/questions/14786507/how-to-change-the-color-of-certain-words-in-the-tkinter-text-widget>
+
+<https://www.youtube.com/watch?v=9b1x6dZakuk>
 
 ## ------------------------   THANK YOU   ------------------------
