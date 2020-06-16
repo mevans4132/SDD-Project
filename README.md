@@ -5,16 +5,16 @@ IDE USED: Visual Studio Code
 LANGUAGE USED: Python 3.6
 OPEATING SYSTEM: Mac OS
 
-## ------------------------   Description   ------------------------
+##    Description   
 
-## ------------------------   Files   ------------------------
+##    Files   
 
 1) IndexLogin.py
 2) swimmerinfomgr.py
 3) User.db
 4) swimmerdbFile.db
 
-## ------------------------   Program Requirements   ------------------------
+##    Program Requirements   
 
 Programming Language used:
 
@@ -35,7 +35,7 @@ Libraries for Database:
 
 This program requires a python compiler to run upon.
 
-## ------------------------   Installation   ------------------------
+##    Installation   
 
 ### Windows
 
@@ -66,23 +66,23 @@ Set-Location Swimmer-Information-Manager
 
 Make Sure tkinter Package installed on your python environment before running the program
 
-## ------------------------   How to run the Program   ------------------------
+##    How to run the Program   
 
 Make sure tKinter and python3 are installed
 
-Then run file : LoginNew.py
+Then run file : IndexLogin.py
 
 Or from the terminal
 
 ```ps
-python swimmer-infomation-manager.py
+python IndexLogin.py
 ```
 
-## ------------------------   How does it work   ------------------------
+##    How does it work   
 
-## ------------------------   Screenshots   ------------------------
+##    Screenshots   
 
-## ------------------------   Contributing   ------------------------
+##    Contributing   
 
 Any new features, improvements, additions, suggestions or issues are welcome!
 
@@ -126,4 +126,4 @@ Any new features, improvements, additions, suggestions or issues are welcome!
 
 <https://www.youtube.com/watch?v=9b1x6dZakuk>
 
-## ------------------------   THANK YOU   ------------------------
+## THANK YOU   
