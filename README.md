@@ -30,19 +30,8 @@ Libraries for GUI:
 
 Libraries for Database:
 
-- SQLite Driver (for Database)
 - sqlite3
-- SQL
 
-Libraries for SMTP protocol
-
-- random
-- time
-- datetime
-- SMTP Protocol
-- smtplib
-- MIMEMultipart
-- MIMEText
 
 This program requires a python compiler to run upon.
 
@@ -51,7 +40,7 @@ This program requires a python compiler to run upon.
 ### Windows
 
 ```cmd
-choco install python sqlite
+choco install python sqlite3
 ```
 
 ### Linux
@@ -59,13 +48,13 @@ choco install python sqlite
 Arch Linux
 
 ```bash
-sudo pacman -S python sqlite
+sudo pacman -S python sqlite3
 ```
 
 ### Pip
 
 ```bash
-pip install sqlite
+pip install sqlite3
 ```
 
 Clone this repositry
@@ -99,7 +88,6 @@ Any new features, improvements, additions, suggestions or issues are welcome!
 
 ## Future Work
 
-- SMS facility can be given to the Visitors and Hosts.
 - GUI can be made much more User-friendly.
 
 ## Citations
